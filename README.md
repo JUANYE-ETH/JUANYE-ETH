@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Juan</h1>
-<h3 align="center">Full-Stack Developer | Crafting Innovative Web Solutions & Passionate About Clean Code</h3>
+<h3 align="center">I am a Full-Stack Developer, Crafting Innovative Web Solutions & Passionate About Clean Code!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanye-eth&label=Profile%20views&color=0e75b6&style=flat" alt="juanye-eth" /> </p>
 
@@ -22,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devjuanye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devjuanye" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan-velasco-web-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-velasco-web-dev" height="30" width="40" /></a>
 <a href="https://medium.com/@juanyevela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@juanyevela" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/juanye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="juanye" height="30" width="40" /></a>
 </p>
@@ -34,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanye-eth&show_icons=true&locale=en" alt="juanye-eth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanye-eth&" alt="juanye-eth" /></p>
+
